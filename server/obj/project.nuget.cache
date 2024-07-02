@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kKy8b/b8RLY=",
+  "dgSpecHash": "zHn91y/Lbog=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Vidal\\code\\csharp-fullstack\\server\\server.csproj",
+  "projectFilePath": "C:\\Users\\Vidal\\code\\tea-shop\\server\\server.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Vidal\\.nuget\\packages\\microsoft.aspnetcore.openapi\\8.0.6\\microsoft.aspnetcore.openapi.8.0.6.nupkg.sha512",
     "C:\\Users\\Vidal\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Vidal\\code\\csharp-fullstack\\server\\server.csproj": {}
+    "C:\\Users\\Vidal\\code\\tea-shop\\server\\server.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Vidal\\code\\csharp-fullstack\\server\\server.csproj": {
+    "C:\\Users\\Vidal\\code\\tea-shop\\server\\server.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Vidal\\code\\csharp-fullstack\\server\\server.csproj",
+        "projectUniqueName": "C:\\Users\\Vidal\\code\\tea-shop\\server\\server.csproj",
         "projectName": "server",
-        "projectPath": "C:\\Users\\Vidal\\code\\csharp-fullstack\\server\\server.csproj",
+        "projectPath": "C:\\Users\\Vidal\\code\\tea-shop\\server\\server.csproj",
         "packagesPath": "C:\\Users\\Vidal\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Vidal\\code\\csharp-fullstack\\server\\obj\\",
+        "outputPath": "C:\\Users\\Vidal\\code\\tea-shop\\server\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Vidal\\AppData\\Roaming\\NuGet\\NuGet.Config"
