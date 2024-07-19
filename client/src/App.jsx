@@ -10,15 +10,14 @@ import Shop from './pages/product/Shop.jsx'
 export default function App() {
 
   return (
-    <div className="wrapper">
-      <Navbar />
-      
-      <BrowserRouter>
-        <Routes>
-          <Route path="/" element={<Home />}/>
-          <Route path="/Shop" element={<Shop />}/>
-        </Routes>
-      </BrowserRouter>
-    </div>
+    <BrowserRouter>
+      <div className="wrapper">
+        <Navbar />
+          <Routes>
+            <Route path="/" element={<Home />}/>
+            <Route path="/Shop" element={<Shop />}/>
+          </Routes>
+      </div>
+    </BrowserRouter>
   )
 }
