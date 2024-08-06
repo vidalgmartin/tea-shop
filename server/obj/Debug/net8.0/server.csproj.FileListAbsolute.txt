@@ -5,7 +5,6 @@ C:\Users\Vidal\code\tea-shop\server\bin\Debug\net8.0\server.deps.json
 C:\Users\Vidal\code\tea-shop\server\bin\Debug\net8.0\server.runtimeconfig.json
 C:\Users\Vidal\code\tea-shop\server\bin\Debug\net8.0\server.dll
 C:\Users\Vidal\code\tea-shop\server\bin\Debug\net8.0\server.pdb
-C:\Users\Vidal\code\tea-shop\server\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
 C:\Users\Vidal\code\tea-shop\server\bin\Debug\net8.0\Microsoft.OpenApi.dll
 C:\Users\Vidal\code\tea-shop\server\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\Vidal\code\tea-shop\server\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
@@ -32,3 +31,6 @@ C:\Users\Vidal\code\tea-shop\server\obj\Debug\net8.0\refint\server.dll
 C:\Users\Vidal\code\tea-shop\server\obj\Debug\net8.0\server.pdb
 C:\Users\Vidal\code\tea-shop\server\obj\Debug\net8.0\server.genruntimeconfig.cache
 C:\Users\Vidal\code\tea-shop\server\obj\Debug\net8.0\ref\server.dll
+C:\Users\Vidal\code\tea-shop\server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Vidal\code\tea-shop\server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Vidal\code\tea-shop\server\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.InMemory.dll
